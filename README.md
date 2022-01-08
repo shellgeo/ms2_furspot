@@ -4,7 +4,7 @@
 A Milestone Project completed by Shell George for the Code Institute Diploma in Software Development.
 
 
-This would be my second project that I have completed, and I will be submitting for my Milestone project for the Code Institute. The inspiration for this project was inspired by BuzzFeed quizzes to pass time.  
+This would be my second project that I have completed, and I will be submitting for my Milestone project for the Code Institute. This project was inspired by BuzzFeed quizzes to pass time.  
 
 
 
@@ -63,7 +63,7 @@ Regular or returning user -
 
  _____
 
-## Deployment
+## **Deployment**
 
 This project was developed on [GitPod](https://gitpod.io/). 
 
@@ -91,10 +91,13 @@ Once this was done a repository was made in Github. This then allowed me to publ
 3. To clone using HTTPS click the clipboard symbol under 'Clone with HTTPS'. 
      - To clone using SSH key click Use SSH then click the clipboard symbol. 
      - To clone using GitHub CLI select Use GitHub CLI and click the clipboard symbol.
-4. Open Git Bash.
+4. Open Terminal on you computer.
 5. Change the working directory to the location you want the cloned directory to be.
 6. Type 'git clone' and paste the url copied from step 3.
 7. Press 'enter' to create your clone.
+
+### **Version Control**
+
 ________
 
 ## Credits 
