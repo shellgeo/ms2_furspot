@@ -19,16 +19,17 @@ View the deployed website here: [FurSpot](https://shellgeo.github.io/ms2_furspot
     - [Structure](#Structure)
     - [Skeleton](#Skeleton)
         - [Wireframes](#Wireframes)
-    - [Surface](#Surface)
         - [Design](#Design)
+    - [Surface](#Surface)
+        - [Features](#Features)
+        - [Testing](#Testing)
             
             
-2. [Features](#Features)
+2. [Deployment](#Deployment)
 
-3. [Testing](#Testing)
-4. [Deployment](#Deployment)
+3. [Credits](#Credits)
 
-5. [Credits](#Credits)
+
 
 ___
 # User Experience Design 
@@ -75,6 +76,25 @@ Once this was done a repository was made in Github. This then allowed me to publ
 4. Under Source, select the 'None'' button and change it to Master and click Save.
 5. Once the page is live you will see the following message "Your site is ready to be published at (Link to the GitHub Live Page)". This is the Link you would need to use to submit your Milestone project.
 
+**How to fork this repository:**
+1. Log into GitHub with your account.
+2. Locate my repo for this project.
+3. On the right side of the screen locate the 'Fork' button and click it.
+4. This gives the option to create a copy in your own repository and make changes using GitPod.
+5. Once you have finished with changes 'add, commit and push' to your own GitHub.
+6. Click Pull Requests and select 'New Pull Request' button.
+
+**How to clone this project to run it locally:**
+
+1. Navigate to the GitHub Repository.
+2. Above the files click the green Download Code link.
+3. To clone using HTTPS click the clipboard symbol under 'Clone with HTTPS'. 
+     - To clone using SSH key click Use SSH then click the clipboard symbol. 
+     - To clone using GitHub CLI select Use GitHub CLI and click the clipboard symbol.
+4. Open Git Bash.
+5. Change the working directory to the location you want the cloned directory to be.
+6. Type 'git clone' and paste the url copied from step 3.
+7. Press 'enter' to create your clone.
 ________
 
 ## Credits 
