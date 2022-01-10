@@ -35,6 +35,7 @@ ___
 # User Experience Design 
 ## **Strategy**  
 ### User Needs & Objectives: 
+FurSpot was created with intention of easing boredom during the lockdown. I wanted to bring the vibe of a BuzzFeed style quiz this site; and allow users to figure their knowledge levels of pop culture in an interactive manner. I pictured a website where people could to go to on a video call and take part in fun quiz 
 
  **Focus:** Th
 
