@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QFocus: FurSpot was created with intention of easing boredom during the lockdown.\\E$"}

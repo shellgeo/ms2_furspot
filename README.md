@@ -1,19 +1,17 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-# **FurSpot**   
+# **FurSpot**
 A Milestone Project completed by Shell George for the Code Institute Diploma in Software Development.
 
-
 This would be my second project that I have completed, and I will be submitting for my Milestone project for the Code Institute. This project was inspired by BuzzFeed quizzes to pass time.  
-
-
 
 View the deployed website here: [FurSpot](https://shellgeo.github.io/ms2_furspot/ "FurSpot | A fun quiz to pass time")
 
 ---
 
 ## Table of Contents
-1. [User Experience Design]()
+
+1. [User Experience Design](#User-Experience-Design)
     - [Strategy](#Strategy)
     - [Scope](#Scope)
     - [Structure](#Structure)
@@ -23,29 +21,28 @@ View the deployed website here: [FurSpot](https://shellgeo.github.io/ms2_furspot
     - [Surface](#Surface)
         - [Features](#Features)
         - [Testing](#Testing)
-            
-            
+
 2. [Deployment](#Deployment)
 
 3. [Credits](#Credits)
 
 
+# User Experience Design
 
-___
-# User Experience Design 
 ## **Strategy**  
-### User Needs & Objectives: 
-FurSpot was created with intention of easing boredom during the lockdown. I wanted to bring the vibe of a BuzzFeed style quiz this site; and allow users to figure their knowledge levels of pop culture in an interactive manner. I pictured a website where people could to go to on a video call and take part in fun quiz 
 
- **Focus:** Th
+### **User Needs & Objectives**
 
- **Definition:** Th
+ **Focus:** FurSpot was created with intention of easing boredom during the lockdown. I wanted to bring the vibe of a BuzzFeed style quiz this site; and allow users to figure their knowledge levels of pop culture in an interactive manner. I pictured a website where people could to go to on a video call and take part in fun quiz.
 
- **Value:** Th
+ **Definition:** The website will display images of some pets with their owner's either blurred out or cropped out of the image. The users will then have list of celebrities to choose from to guess the pet's correct owner.  
 
-## **Scope** 
+ **Value:** The website was developed so that the users will have somewhere to partake in a fun and interactive quiz. They will also be able to compare scores with their peers and have bragging rights over who amongst their group has the most knowledge on pop culture.
 
-### Functional Specification:
+## **Scope**
+
+### Functional Specification
+
 This section is split up into two separate segments for the Owner and the User.
 
 
