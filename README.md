@@ -70,6 +70,39 @@ Regular or returning user
 - Be able to share the site easily with friends and compete against them.
 - Compare scores against friends.
 
+## **Structure**
+
+### **Interaction Design**
+
+### **Information Architecture**
+
+## **Skeleton**
+
+### **Wireframes**
+
+## **Surface**
+
+### **Design**
+
+**- Colour Scheme**
+
+**- Typography**
+
+**- Images**
+
+# Features
+
+### Technologies
+
+Languages
+
+Libraries
+
+Tools
+
+# Testing
+
+
 ---
 
 ## **Deployment**
@@ -107,9 +140,19 @@ Once this was done a repository was made in GitHub. This then allowed me to publ
 6. Type 'git clone' and paste the url copied from step 3.
 7. Press 'enter' to create your clone.
 
-### **Version Control**
+## **Version Control**
 
-________
+The project was cloned from a template provided by the code institute. Once this was completed git command were used on the terminal on GitPod to ensure changes were saved and backed up. 
+
+**Steps to save you project:**
+
+- Click ***cmd+S*** (macOS users) or ***ctrl+S*** (Windows users) in your IDE.
+- In your terminal type in ***git add [name_of_your_file]***.
+- You can use your working tree in your IDE to confirm all the changes that had been made.
+- Now type ***git commit -m 'short message summarizing the changes'***.
+- Finally type ***git push*** to ensure that all changes are synced to 'origin/master' branch.
+
+---
 
 ## Credits
 

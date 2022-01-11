@@ -1,1 +1,3 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QFocus: FurSpot was created with intention of easing boredom during the lockdown.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QTo clone using GitHub CLI select Use GitHub CLI and click the clipboard symbol.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QClick cmd+S (macOS users) or ctrl+S (windows users) in your IDE.\\E$"}
