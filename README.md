@@ -73,8 +73,19 @@ Regular or returning user
 ### **Interaction Design**
 
 Developers that came before me, had already set some of the common conventions that we see for web development. I followed Jesse James Garrett's model for User Experience. This model allowed me to develop website, so users can navigate through each page intuitively. This involved ensuring the links were easily visible, and the page was uncluttered.
+The site needs to use complimentary colors so that it would encourage the user to carry on navigating through the different links.
 
 ### **Information Architecture**
+
+The site was planned so that users can
+
+### **Design**
+
+#### **- Color Scheme**
+
+#### **- Typography**
+
+#### **- Images**
 
 ## **Skeleton**
 
@@ -86,15 +97,7 @@ Scores - Desktop & Mobile
 
 ## **Surface**
 
-### **Design**
-
-#### **- Color Scheme**
-
-#### **- Typography**
-
-#### **- Images**
-
-## Features
+### Features
 
 ### **Technologies**
 
@@ -165,17 +168,17 @@ The following people helped me finish my project by offering me advice and guida
 
 - Spencer Barriball: Mentor
 
-- Suzie Bennett: Peer
+- Suzy Bennett: Peer
 
 -
 
-**Additional Credits**
+### **Additional Credits**
 
 - Code Institute
 - Stack Overflow
-- Youtube
+- YouTube
 - GeeksforGeeks
 
 Media:
 
-________
+---
