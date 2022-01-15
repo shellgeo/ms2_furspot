@@ -22,6 +22,7 @@ View the deployed website here: [FurSpot](https://shellgeo.github.io/ms2_furspot
         - [Testing](#Testing)
 
 2. [Deployment](#Deployment)
+   - [Version Control](Version-Control)
 
 3. [Credits](#Credits)
 
@@ -83,8 +84,8 @@ The site was planned so that users can navigate to a page and always make their 
 
 #### **- Color Scheme**
 
-The color scheme was generated on the [Coolors](https://coolors.co/) website.
-! 
+The color scheme was generated on the [Coolors](https://coolors.co/) website. </br> 
+![Image of Color palette](https://github.com/shellgeo/ms2_furspot/blob/404ca90d2331de0bf7b796f7187466864414d622/docs/design/colour_palette.jpg
 
 #### **- Typography**
 
