@@ -1,5 +1,3 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
 # **FurSpot**
 
 A Milestone Project completed by Shell George for the Code Institute Diploma in Software Development.
@@ -29,11 +27,11 @@ View the deployed website here: [FurSpot](https://shellgeo.github.io/ms2_furspot
 
 ---
 
-# User Experience Design
+## **User Experience Design**
 
 ## **Strategy**  
 
-### **User Needs & Objectives**
+### User Needs & Objectives
 
  **Focus:** FurSpot was created with intention of easing boredom during the lockdown. I wanted to bring the vibe of a BuzzFeed style quiz this site; and allow users to figure their knowledge levels of pop culture in an interactive manner. I pictured a website where people could to go to on a video call and take part in fun quiz.
 
@@ -74,25 +72,31 @@ Regular or returning user
 
 ### **Interaction Design**
 
+Developers that came before me, had already set some of the common conventions that we see for web development. I followed Jesse James Garrett's model for User Experience. This model allowed me to develop website, so users can navigate through each page intuitively. This involved ensuring the links were easily visible, and the page was uncluttered.
+
 ### **Information Architecture**
 
 ## **Skeleton**
 
 ### **Wireframes**
 
+Home - Desktop & Mobile <br>
+Quiz - Desktop & Mobile <br>
+Scores - Desktop & Mobile
+
 ## **Surface**
 
 ### **Design**
 
-**- Colour Scheme**
+#### **- Color Scheme**
 
-**- Typography**
+#### **- Typography**
 
-**- Images**
+#### **- Images**
 
-# Features
+## Features
 
-### Technologies
+### **Technologies**
 
 Languages
 
@@ -100,8 +104,7 @@ Libraries
 
 Tools
 
-# Testing
-
+## Testing
 
 ---
 
@@ -142,7 +145,7 @@ Once this was done a repository was made in GitHub. This then allowed me to publ
 
 ## **Version Control**
 
-The project was cloned from a template provided by the code institute. Once this was completed git command were used on the terminal on GitPod to ensure changes were saved and backed up. 
+The project was cloned from a template provided by the code institute. Once this was completed git command were used on the terminal on GitPod to ensure changes were saved and backed up.
 
 **Steps to save you project:**
 
