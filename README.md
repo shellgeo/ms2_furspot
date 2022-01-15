@@ -153,7 +153,9 @@ The project was cloned from a template provided by the code institute. Once this
 - In your terminal type in ***git add [name_of_your_file]***.
 - You can use your working tree in your IDE to confirm all the changes that had been made.
 - Now type ***git commit -m 'short message summarizing the changes'***.
-- Finally type ***git push*** to ensure that all changes are synced to 'origin/master' branch.
+- Finally, type ***git push*** to ensure that all changes are synced to 'origin/master' branch.
+
+In the event that the project falls out of sync with the master branch, you can resolve this by using the ***'git pull'*** and the ***'git merge'*** commands. The terminal is quite helpful if it detects and issues and gives clear instructions on how to resolve most issues you can run into.
 
 ---
 
