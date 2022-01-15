@@ -77,11 +77,14 @@ The site needs to use complimentary colors so that it would encourage the user t
 
 ### **Information Architecture**
 
-The site was planned so that users can
+The site was planned so that users can navigate to a page and always make their way back. I had implemented a NavBar that allows them to return to the Homepage or another page they wish to navigate to.
 
 ### **Design**
 
 #### **- Color Scheme**
+
+The color scheme was generated on the [Coolors](https://coolors.co/) website.
+! 
 
 #### **- Typography**
 
