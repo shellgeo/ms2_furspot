@@ -1,3 +1,58 @@
-body {
-    background: #E3D8FC
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+</style>
+/* quiz.html */
+body, h1{
+    font-weight: 300;
+    font-family: 'Space Mono', monospace;
+}
+
+#intro-info{
+    display:flex;
+    justify-content: space-between;
+}
+
+.prefix{
+    text-align: center;
+    font-size: 1rem; 
+}
+
+#q-number, #score {
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+
+}
+
+.question-container{
+    height: 8rem;
+font-family: 'Space Mono', monospace;
+}
+
+.answer-container{
+    display: flex;
+    font-size: 3rem;
+    flex-direction: initial;
+    margin-bottom: 1rem;
+    font-family: 'Space Mono', monospace;
+    
+}
+
+.answer-prefix{
+    background-color: #3A86FF;
+    color:#FF006E;
+    padding: 1.5rem 1.5rem;
+    border-radius: 5%;
+    margin: 0;
+}
+
+.answer-text{
+    padding: 1.5rem;
+    width: 100%;
+    margin: 0;
+    background-color:#9CC2FF;
+}
+
+.answer-container:hover{
+    cursor: pointer;
+    box-shadow: -12px -2px 44px 3px rgba(255,32,129,0.61);
 }
